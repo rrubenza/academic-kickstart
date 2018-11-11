@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "me-lsst.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "rrubenza@astro.caltech.edu"
+  email = "rrubenza@caltech.edu"
   address = "250 Cahill Center for Astronomy & Astrophysics, Caltech, Pasadena, California, 91125, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
