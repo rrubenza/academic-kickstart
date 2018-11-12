@@ -37,7 +37,7 @@ summary = "Here are some questions to consider on your graduate school visits to
 
 +++
 
-Below is a list of questions I have compiled that are good to be considering when choosing a graduate school.  Many of these questions are draw from [Luisa Rebull's website](http://spider.ipac.caltech.edu/staff/rebull/goodquestions.html#ToC5).  She also has [many great links](http://spider.ipac.caltech.edu/staff/rebull/womensci.html) for women (and everyone) in science.
+Below is a list of questions I have compiled that are good to be considering when choosing a graduate school.  Many of these questions are drawn from [Luisa Rebull's website](http://spider.ipac.caltech.edu/staff/rebull/goodquestions.html#ToC5).  She also has [many great links](http://spider.ipac.caltech.edu/staff/rebull/womensci.html) for women (and everyone) in science.
 
 
 ### Ask department faculty:
