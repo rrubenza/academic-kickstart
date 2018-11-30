@@ -35,7 +35,7 @@ at the California Institute of Technology, where I am supported by a
 NSF Graduate Research Fellowship. I am interested in the diversity of
 exoplanets and understanding where our Solar System fits in the context of these other worlds. 
 
-At Caltech I work with [Andrew Howard](http://www.astro.caltech.edu/~howard/) on radial velocity detection and characterization of exoplanets in order to understand the demographics of what planets exist in our galaxy.
+At Caltech I work with [Andrew Howard](https://exoplanets.caltech.edu/) on radial velocity detection and characterization of exoplanets in order to understand the demographics of what planets exist in our galaxy.
 
 Previously, I worked with [Segev BenZvi](http://www.pas.rochester.edu/~sybenzvi/index.html) at the University of Rochester
 on a number of projects in gamma-ray astroparticle physics, and on
